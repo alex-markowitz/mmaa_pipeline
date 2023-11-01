@@ -1,4 +1,4 @@
-# MAA Pipeline v2.0
+# MMAA Pipeline v2.0
 
 Execute MAA Pipeline v2.0 for DNA methylation-based classification of central nervous system tumours.
 
