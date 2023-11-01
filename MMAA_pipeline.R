@@ -1,5 +1,5 @@
 ### DESCRIPTION ################################################################
-# Execute MAA Pipeline v2.0
+# Execute MMAA Pipeline
 # Authored by; Alexander Markowitz
 # Based on "DNA methylation-based classification of central nervous system tumours"
 # Capper et al., nature, 2018.  PMID: 29539639
@@ -49,9 +49,9 @@ suppressMessages(suppressWarnings(suppressPackageStartupMessages(source(file.pat
 message("Done loading -- ", Sys.time())
 
 ### PERFORM CHECK SUM ##########################################################
-#message("Performing MD5 checksum -- ", Sys.time())
-#performMD5_checksum(util.dir)
-#message("Done loading -- ", Sys.time())
+message("Performing MD5 checksum -- ", Sys.time())
+performMD5_checksum(util.dir)
+message("Done loading -- ", Sys.time())
 
 ### LOAD DATA ##################################################################
 source(paste0(util.dir, 'mgmtstp27/R/mgmt.R'));

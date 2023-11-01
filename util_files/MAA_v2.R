@@ -1,5 +1,5 @@
 ### DESCRIPTION ################################################################
-# Methylation Array Analysis Pipeline v2.0
+# Mutli-modal Methylation Array Analysis Pipeline (MMAA)
 
 ## PREAMBLE ####################################################################
 suppressMessages(library(minfi));
