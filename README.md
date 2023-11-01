@@ -1,6 +1,6 @@
-# MMAA Pipeline v2.0
+# MMAA Pipeline
 
-Execute MAA Pipeline v2.0 for DNA methylation-based classification of central nervous system tumours.
+Execute MMAA Pipeline for DNA methylation-based classification of central nervous system tumours.
 
 ## Author
 - **Alexander Markowitz**
